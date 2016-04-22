@@ -1,0 +1,28 @@
+{
+  "name": "grunt-commit-plugin",
+  "version": "0.0.3",
+  "dependencies": {
+    "asyncblock": {
+      "version": "2.1.21",
+      "from": "asyncblock@^2.1.21",
+      "resolved": "https://registry.npmjs.org/asyncblock/-/asyncblock-2.1.21.tgz",
+      "dependencies": {
+        "fibers": {
+          "version": "1.0.1",
+          "from": "fibers@1.0.1",
+          "resolved": "https://registry.npmjs.org/fibers/-/fibers-1.0.1.tgz"
+        },
+        "esprima": {
+          "version": "1.0.4",
+          "from": "esprima@1.0.4",
+          "resolved": "https://registry.npmjs.org/esprima/-/esprima-1.0.4.tgz"
+        }
+      }
+    },
+    "trim": {
+      "version": "0.0.1",
+      "from": "trim@0.0.1",
+      "resolved": "https://registry.npmjs.org/trim/-/trim-0.0.1.tgz"
+    }
+  }
+}
