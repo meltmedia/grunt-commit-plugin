@@ -39,7 +39,7 @@
     "sinon": "^1.17.x"
   },
   "peerDependencies": {
-    "grunt": "~1.0.1"
+    "grunt": "^0.4.5"
   },
   "keywords": [
     "grunt plugin cadmium commit"
