@@ -27,7 +27,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "asyncblock": "^2.2.8",
+    "asyncblock": "^2.2.8Ø",
     "trim": "0.0.1"
   },
   "devDependencies": {
