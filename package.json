@@ -38,9 +38,6 @@
     "nock": "^8.0.0",
     "sinon": "^1.17.x"
   },
-  "peerDependencies": {
-    "grunt": "~1.0.0"
-  },
   "keywords": [
     "grunt plugin cadmium commit"
   ]
